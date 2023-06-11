@@ -2,6 +2,7 @@ package Java100.ArrayAndString;
 
 public class JumpGame2 {
     public static int canJump2(int [] nums){
+
             int jumps = 0;
             int current = 0;
             int maxReach = 0;
